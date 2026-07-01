@@ -1,0 +1,5 @@
+"Alternative Workcenters","Capacity","Code","Cost per hour","OEE Target","Sequence","Tag","Time Efficiency","Work Center"
+"","500.0","WC-01","100000.0","90.0","1","","100.0","Tim Prepare"
+"","500.0","WC-02","200000.0","90.0","1","","100.0","Tim Masak"
+"","500.0","WC-03","50000.0","90.0","1","","100.0","Tim Portioning"
+"","500.0","WC-04","50000.0","90.0","1","","100.0","Tim Pengemasan"
